@@ -8,8 +8,6 @@
     <title>CRUD Operation</title>
 </head>
 <body>
-    <h2>Hi How are you</h2>
-    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quae ab optio earum sed. Nobis deserunt repellat amet tempore consequuntur porro nulla eligendi assumenda modi doloremque.</p>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae quia fugiat culpa, deserunt repudiandae optio similique, beatae aperiam corporis repellat ab rem libero quas doloremque.</p>
+    
 </body>
 </html>
